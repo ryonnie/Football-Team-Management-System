@@ -13,7 +13,6 @@ This C program allows users to manage football players and their teams. It provi
 
 # Installation & Usage
 1) Clone the repository:
-```sh
+sh
 git clone https://github.com/ryonnie/football-team-management.git
 cd football-team-management # Navigate into the project director
-d
